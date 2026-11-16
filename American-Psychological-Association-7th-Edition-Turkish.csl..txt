@@ -296,7 +296,7 @@
     <terms>
       <term name="letter">kişisel iletişim</term>
       <term name="letter" form="short">mektup</term>
-      <term name="et-al" form="short">vd.</term>
+      <term name="et-al" form="short">ve ark.</term>
       <term name="and others">ve diğerleri</term>
       <term name="editor" form="short">Ed.</term>
       <term name="accessed">Erişim Tarihi</term>
